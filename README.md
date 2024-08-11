@@ -1,6 +1,6 @@
-## Processamento de Imagens - UFCA
+## Processamento de Imagens 
 
-Este repositório contém as atividades da disciplina de Processamento de Imagens, ministrada no curso de Ciência da Computação da Universidade Federal do Cariri (UFCA). 
+Este repositório contém as atividades da disciplina de Processamento de Imagens.
 
 **Conteúdo:**
 
